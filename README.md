@@ -4,6 +4,10 @@
 ## My GitHub's Stats:
 
 ![ToonsHub's github stats](https://github-readme-stats.vercel.app/api?username=XDacchuX&show_icons=true&theme=radical&include_all_commits=true)
+## 🎵 Now playing
+
+[![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
+
 <br>
 
 - 👋 Hi, I’m @XDacchuX
